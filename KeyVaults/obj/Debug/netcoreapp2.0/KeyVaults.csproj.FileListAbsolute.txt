@@ -1,0 +1,8 @@
+C:\dev\KeyVaults\KeyVaults\bin\Debug\netcoreapp2.0\KeyVaults.deps.json
+C:\dev\KeyVaults\KeyVaults\bin\Debug\netcoreapp2.0\KeyVaults.runtimeconfig.json
+C:\dev\KeyVaults\KeyVaults\bin\Debug\netcoreapp2.0\KeyVaults.runtimeconfig.dev.json
+C:\dev\KeyVaults\KeyVaults\bin\Debug\netcoreapp2.0\KeyVaults.dll
+C:\dev\KeyVaults\KeyVaults\obj\Debug\netcoreapp2.0\KeyVaults.csprojResolveAssemblyReference.cache
+C:\dev\KeyVaults\KeyVaults\obj\Debug\netcoreapp2.0\KeyVaults.csproj.CoreCompileInputs.cache
+C:\dev\KeyVaults\KeyVaults\obj\Debug\netcoreapp2.0\KeyVaults.AssemblyInfoInputs.cache
+C:\dev\KeyVaults\KeyVaults\obj\Debug\netcoreapp2.0\KeyVaults.AssemblyInfo.cs
